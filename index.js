@@ -358,8 +358,8 @@ p.nominalBounds = new cjs.Rectangle(-861.1,-512,1722.3,1024.1);
 		function fl_ClickToGoToWebPage_7() {
 			window.open("https://youtu.be/te0gsxnUnf4?t=6", "_blank");
 		}
-		playSound("changingmynumber215");
-		playSound("changingmynumber215");
+		playSound("changingnumearrape");
+		playSound("changingnumearrape");
 		/* Click to Go to Web Page
 		Clicking on the specified symbol instance loads the URL in a new browser window.
 		

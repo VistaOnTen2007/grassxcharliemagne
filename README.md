@@ -2,3 +2,5 @@
 
 About the game:
 This game is intended for one discord rp server. thx.
+
+also its shit btw
